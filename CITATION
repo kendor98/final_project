@@ -1,6 +1,6 @@
-@Unpublished{DOE2024,
-    Title  = "EXAMPLE PROJECT",
-    Author = "JANE DOE",
+@Unpublished{Niendorf2025,
+    Title  = "Final Project EPP 2024",
+    Author = "Kevin Niendorf",
     Year   = "2024",
-    Url    = "https://github.com/opensourceeconomics/econ-project-templates",
+    Url    = "https://github.com/iame-uni-bonn/final-project-kendor98.git",
 }
