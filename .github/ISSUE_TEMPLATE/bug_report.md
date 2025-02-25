@@ -1,19 +1,19 @@
----
+______________________________________________________________________
 
 name: Bug Report
-about: Create a bug report to help us improve template_project
+about: Create a bug report to help us improve final_project
 title: "BUG:"
 labels: "bug"
 
----
+______________________________________________________________________
 
 - [ ] I have checked that this issue has not already been reported.
 
-- [ ] I have confirmed this bug exists on the latest version of template_project.
+- [ ] I have confirmed this bug exists on the latest version of final_project.
 
-- [ ] (optional) I have confirmed this bug exists on the `main` branch of template_project.
+- [ ] (optional) I have confirmed this bug exists on the `main` branch of final_project.
 
----
+______________________________________________________________________
 
 **Note**: Please read [this
 guide](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing

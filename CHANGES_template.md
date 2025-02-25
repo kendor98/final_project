@@ -5,7 +5,6 @@
 - Make hooks more permissive (docstrings, pandas naming, computing on return or not).
 - Docs: Replace `conda` by `mamba` where appropriate.
 
-
 ## v0.8.3 -- October 2024
 
 Display the correct version number in the rendered docs.
